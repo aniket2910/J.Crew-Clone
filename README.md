@@ -21,3 +21,6 @@ Time: 6 days
 2. Add or Remove Item as per your choice
 3. Payment Method
 4. Add address
+
+## Checkout Live Preview
+(https://snazzy-horse-6fab01.netlify.app/)](https://snazzy-horse-6fab01.netlify.app/)
