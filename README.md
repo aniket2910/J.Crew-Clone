@@ -23,4 +23,4 @@ Time: 6 days
 4. Add address
 
 ## Checkout Live Preview
-(https://snazzy-horse-6fab01.netlify.app/)](https://snazzy-horse-6fab01.netlify.app/)
+https://snazzy-horse-6fab01.netlify.app/
